@@ -1,0 +1,14 @@
+.btn {
+  background-color: #1a2434;
+  /* width: 40px; */
+  height: 60px;
+}
+
+.btnTop {
+  height: 60px;
+  /* background-color: #1a2434; */
+}
+
+.btn:active {
+  background-color: #1e2a3c;
+}
